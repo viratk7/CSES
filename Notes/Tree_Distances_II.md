@@ -10,8 +10,7 @@ Determine for each node the sum of the distances from the node to all other node
 - number of nodes in subtree of a node can be calculated in O(1) with preprocessing 
 - Run DFS starting from any root to find subtree vector for all nodes
 - find sum for root
-- run the final DFS call
-
+- run the final DFS call to calc sums
 
 ---
 

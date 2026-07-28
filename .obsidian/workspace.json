@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tree_Distances_II.md",
+                "file": "Notes/Tree_Diameter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree_Distances_II"
+              "title": "Tree_Diameter"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Tree_Distances_II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tree_Distances_II"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Tree_Distances_II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tree_Distances_II"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Tree_Distances_II.md",
+                "file": "Full Body Workout Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tree_Distances_II"
+              "title": "Outline of Full Body Workout Plan"
             }
           }
         ]
@@ -184,20 +182,23 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "c4174df03e8627fa",
+  "active": "e4ddd0ebc56ff045",
   "lastOpenFiles": [
+    "Full Body Workout Plan.md",
     "Notes/Tree_Diameter.md",
+    "Array_Description.cpp",
+    "Book_Shop.cpp",
+    "Removing_Digits.cpp",
+    "Removing_Digits.py",
+    "Notes/Cycle_Finding.md",
+    "Company_Queries_I.cpp",
+    "Notes/Monsters.md",
     "Notes/Tree_Distances_II.md",
+    "Notes/Tree_Matching.md",
+    "Tree_Matching.cpp",
     "Tree_Distances_II.cpp",
     "Tree_Distances_I.cpp",
-    "Notes/Cycle_Finding.md",
     "Tree_Diameter.cpp",
-    "A_Zero_Sum.bin",
-    "A_Zero_Sum.cpp",
-    "Subordinates.cpp",
-    "Notes/Monsters.md",
-    "scripts/create_note.py",
-    "scripts",
-    "Notes"
+    "A_Zero_Sum.bin"
   ]
 }

@@ -1,5 +1,3 @@
-# Tree_Diameter
-
 ## Problem
 
 Given an undirected tree, find the diameter of the tree
